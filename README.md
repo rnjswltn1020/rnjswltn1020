@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Jisoo%20Github🎈&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=Egg&color=timeGradient&height=300&width=full&section=header&text=This%20is%20Jisoo%20Github🎈&fontSize=30" />
 </div>
 <div align=center>
   Hi 👋 I'm a front-end web developer. I usually develop websites using React. <br/>
@@ -7,7 +7,7 @@ I prefer to work in collaboration with colleagues, and I'm also interested in in
 </div>
 <br/>
 <br/>
-<p>🌱Languages🌱</p>
+<h3>🌱Languages🌱</h3>
 <div align=left width=50%>
  <img src="https://img.shields.io/badge/React-EF9421?style=plastic&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
@@ -20,18 +20,23 @@ I prefer to work in collaboration with colleagues, and I'm also interested in in
  <img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=plastic&logo=styledcomponents&logoColor=white"/>
 </div>
 <br/>
-<p>🔭Tools🔭</p>
+<h3>🔭Tools🔭</h3>
 <div>
  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/>
  <img src="https://img.shields.io/badge/webstorm-000000?style=plastic&logo=webstorm&logoColor=white"/>
  <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/>
 </div>
 <br/>
-<p>📫Contact me📫</p>
+<h3>📫Contact me📫</h3>
 <div>
-  <a href="https://rnjswltn1020@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=plastic&logo=gmail&logoColor=white"/><a/>
-  <a href="https://jisookwonresume.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-528DD7?style=plastic&logo=readme&logoColor=white"/><a/>
-</div>  
+  <a href="mailto:https://rnjswltn1020@gmail.com?subject=안녕하세요?"><img src="https://img.shields.io/badge/Mail-EA4335?style=plastic&logo=gmail&logoColor=white"/><a/>
+  <a href="https://jisookwonresume.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-528DD7?style=plastic&logo=readme&logoColor=white"/><a/>
+</div>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnjswltn1020&layout=compact">
+</div>
+    
+    
 <!--
 **rnjswltn1020/rnjswltn1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
